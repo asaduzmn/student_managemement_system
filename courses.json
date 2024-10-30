@@ -1,0 +1,48 @@
+{
+    "PHY101": {
+        "course_name": "Physics",
+        "course_code": "PHY101",
+        "instructor": "Dr. ABC",
+        "students": [
+            "S001",
+            "S004",
+            "S005"
+        ]
+    },
+    "CHEM101": {
+        "course_name": "Chemistry",
+        "course_code": "CHEM101",
+        "instructor": "Dr. XYZ",
+        "students": [
+            "S002",
+            "S004"
+        ]
+    },
+    "MATH101": {
+        "course_name": "Math",
+        "course_code": "MATH101",
+        "instructor": "Prof. M. Hossain",
+        "students": [
+            "S001",
+            "S002"
+        ]
+    },
+    "BIO101": {
+        "course_name": "Biology",
+        "course_code": "BIO101",
+        "instructor": "Dr. S. Karim",
+        "students": [
+            "S003",
+            "S005"
+        ]
+    },
+    "ENG101": {
+        "course_name": "English",
+        "course_code": "ENG101",
+        "instructor": "Dr. R. Ahmed",
+        "students": [
+            "S001",
+            "S003"
+        ]
+    }
+}

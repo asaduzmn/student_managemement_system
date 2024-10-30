@@ -1,0 +1,82 @@
+{
+    "S001": {
+        "name": "Sami",
+        "age": 22,
+        "address": "Dhaka",
+        "student_id": "S001",
+        "grades": {
+            "Physics": "A",
+            "Math": "B",
+            "English": "A"
+        },
+        "courses": [
+            "Physics",
+            "Math",
+            "English"
+        ]
+    },
+    "S002": {
+        "name": "Lina",
+        "age": 21,
+        "address": "Chittagong",
+        "student_id": "S002",
+        "grades": {
+            "Chemistry": "B",
+            "Math": "A"
+        },
+        "courses": [
+            "Chemistry",
+            "Math"
+        ]
+    },
+    "S003": {
+        "name": "Farhan",
+        "age": 23,
+        "address": "Sylhet",
+        "student_id": "S003",
+        "grades": {
+            "Biology": "C",
+            "English": "B+"
+        },
+        "courses": [
+            "Biology",
+            "English"
+        ]
+    },
+    "S004": {
+        "name": "Nisha",
+        "age": 20,
+        "address": "Rajshahi",
+        "student_id": "S004",
+        "grades": {
+            "Physics": "A",
+            "Chemistry": "C"
+        },
+        "courses": [
+            "Physics",
+            "Chemistry"
+        ]
+    },
+    "S005": {
+        "name": "Joy",
+        "age": 22,
+        "address": "Barisal",
+        "student_id": "S005",
+        "grades": {
+            "Physics": "B+",
+            "Biology": "A"
+        },
+        "courses": [
+            "Physics",
+            "Biology"
+        ]
+    },
+    "18511020": {
+        "name": "Md Asaduzzaman",
+        "age": 26,
+        "address": "Mohammadpur",
+        "student_id": "18511020",
+        "grades": {},
+        "courses": []
+    }
+}
